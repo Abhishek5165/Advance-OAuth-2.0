@@ -4,7 +4,7 @@ import { formatDate } from "../../utils/date";
 import Img from "../../../public/Demo.png"
 import { UserRoundCheck } from 'lucide-react';
 
-const DashboardPage = () => {
+const DashBoardPage = () => {
 	const { user, logout } = useAuthStore();
 
 	const handleCoderQuest = () => {
@@ -111,4 +111,4 @@ const DashboardPage = () => {
 	);
 };
 
-export default DashboardPage;
+export default DashBoardPage;
