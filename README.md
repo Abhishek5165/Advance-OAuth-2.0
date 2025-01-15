@@ -1,4 +1,4 @@
-<h1 align="Abhishek's Advanced OAuth 2.0 🔒 🥷 " </h1>
+<h1 align="center">Abhishek's Advanced OAuth_2.0 🔒 </h1>
 
 ## 1️⃣ DashBoard ![Demo App1](https://github.com/Abhishek5165/Advanced-OAuth-2.0/blob/main/Demo/A1.png)
 
@@ -57,4 +57,38 @@ npm run build
 npm run start
 ```
 
-### I'll see you in the next one! 🚀
+## Contact
+
+_Connect with me through various portals :_
+
+<table>
+  <tr>
+    <th></th>
+    <th>Social Media</th>
+    <th>Username</th>
+    <th>Link</th>
+  </tr>
+  <tr>
+    <td><img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/112-gmail_email_mail-512.png" width="20" /></td>
+    <td>Email</td>
+    <td><code>abhishek1310verma@gmail.com</code></td>
+    <td><a href="mailto:=abhishek1310verma@gmail.com" target="_blank">Email</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" width="20" /></td>
+    <td>LinkedIn</td>
+    <td><code>Abhishek-verma</code></td>
+    <td><a href="https://www.linkedin.com/in/abhishek-verma-600899247/" target="_blank">LinkedIn</a></td>
+  </tr>
+  <tr>
+    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Logo_of_Twitter.svg/512px-Logo_of_Twitter.svg.png" width="20" /></td>
+    <td>Twitter</td>
+    <td><code>Abhishek_13107</code></td>
+    <td><a href="https://twitter.com/Abhishek_13107" target="_blank">Twitter</a></td>
+  </tr>
+</table>
+
+### Show your support
+
+Give a ⭐ if you like this website!
+
