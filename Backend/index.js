@@ -25,6 +25,17 @@ if (process.env.NODE_ENV === "production") {
 	});
 }
 
+import express from 'express';
+import path from 'path';
+
+// Serve static files from the frontend build directory
+app.use(express.static(path.join(__dirname, 'Backend/public')));
+
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, 'Backend/public', 'index.html'));
+});
+
+
 app.listen(port,()=>{
     connectDB();
     console.log("Server is running on port",port);

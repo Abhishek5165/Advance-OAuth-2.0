@@ -4,10 +4,10 @@
   "description": "",
   "main": "Backend/index.js",
   "scripts": {
-    "dev": "nodemon Backend/index.js",
-    "start": "set NODE_ENV=production&& node Backend/index.js",
-    "build": "npm install && npm install --prefix frontend && npm run build --prefix frontend"
-  },
+  "start": "NODE_ENV=production node Backend/index.js",
+  "build": "cd Frontend && npm install && npm run build",
+  "heroku-postbuild": "npm run build && cp -r Frontend/dist/* Backend/public/"
+},
   "keywords": [],
   "author": "",
   "type": "module",
