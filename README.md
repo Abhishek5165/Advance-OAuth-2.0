@@ -1,5 +1,7 @@
 <h1 align="center">Abhishek's Advanced OAuth_2.0 🔒 </h1>
 
+<p align="center">I delved into Advanced OAuth 2.0 to build a robust and secure authentication system. This project covers the nuances of OAuth 2.0, including token generation, handling multiple scopes, and managing client credentials with precision. Through this, I’ve learned to integrate OAuth securely into various applications, ensuring seamless authorization while keeping sensitive data protected.</p>
+
 ## 1️⃣ DashBoard
 
 ![Demo App1](https://github.com/Abhishek5165/Advanced-OAuth-2.0/blob/main/Demo/A1.png)
