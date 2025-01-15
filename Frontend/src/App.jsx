@@ -7,7 +7,7 @@ import { useAuthStore } from "./store/authStore";
 import { useEffect } from "react";
 import { Toaster } from 'react-hot-toast';
 import { Navigate } from "react-router-dom";
-import DashboardPage from "./components/pages/DashboardPage";
+import DashboardPage from "./components/pages/DashboardPage.jsx";
 import LoadingSpinner from "./components/LoadingSpinner";
 import ForgotPassword from "./components/pages/ForgotPassword";
 import ResetPassword from "./components/pages/ResetPassword";
