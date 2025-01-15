@@ -1,0 +1,12 @@
+Technologies used -
+
+1.) JWT web tokens for Authentication.
+2.) Zu stand for auth and global state management.
+3.) Lucide react icons 
+4.) cors - allows certain types of requests, from another domain,protocol, or port
+5.) React js
+6.) Toasters - showing toast messages.
+7.) bcryptjs - for password hashing.
+8.) cookie-parser - for handling the cookies.
+9.) Tailwind CSS 
+10.) MailTrap - for Sending the emails.
