@@ -25,9 +25,6 @@ if (process.env.NODE_ENV === "production") {
 	});
 }
 
-import express from 'express';
-import path from 'path';
-
 // Serve static files from the frontend build directory
 app.use(express.static(path.join(__dirname, 'Backend/public')));
 
