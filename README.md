@@ -1,23 +1,26 @@
-<h1 align="center">Advanced Auth Tutorial 🔒 </h1>
+<h1 align="center">Abhishek's Advanced OAuth_2.0 </h1>
 
-![Demo App](/frontend/public/screenshot-for-readme.png)
+1️⃣ ![Demo App1](https://github.com/Abhishek5165/Advanced-OAuth-2.0/blob/main/Demo/A1.png)
 
-[Video Tutorial on Youtube](https://youtu.be/pmvEgZC55Cg)
+2️⃣ ![Demo App2](https://github.com/Abhishek5165/Advanced-OAuth-2.0/blob/main/Demo/A2.png)
 
-About This Course:
+3️⃣ ![Demo App3](https://github.com/Abhishek5165/Advanced-OAuth-2.0/blob/main/Demo/A3.png)
 
--   🔧 Backend Setup
+## Key Features - 🥰🥷
+
+-   ## 🔧 Backend Setup
 -   🗄️ Database Setup
 -   🔐 Signup Endpoint
 -   📧 Sending Verify Account Email
 -   🔍 Verify Email Endpoint
--   📄 Building a Welcome Email Template
+-   📄 Sending Welcome Email
 -   🚪 Logout Endpoint
 -   🔑 Login Endpoint
 -   🔄 Forgot Password Endpoint
 -   🔁 Reset Password Endpoint
 -   ✔️ Check Auth Endpoint
--   🌐 Frontend Setup
+
+-   ## 🌐 Frontend Setup
 -   📋 Signup Page UI
 -   🔓 Login Page UI
 -   ✅ Email Verification Page UI
@@ -27,8 +30,6 @@ About This Course:
 -   🔑 Implementing Login
 -   🏠 Dashboard Page
 -   🔄 Implementing Forgot Password
--   🚀 Super Detailed Deployment
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
 
 ### Setup .env file
 
