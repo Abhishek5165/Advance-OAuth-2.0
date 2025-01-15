@@ -1,10 +1,10 @@
-<h1 align="center">Abhishek's Advanced OAuth_2.0 </h1>
+<h1 align="Abhishek's Advanced OAuth 2.0 🔒 🥷 " </h1>
 
-1️⃣ ![Demo App1](https://github.com/Abhishek5165/Advanced-OAuth-2.0/blob/main/Demo/A1.png)
+## 1️⃣ DashBoard ![Demo App1](https://github.com/Abhishek5165/Advanced-OAuth-2.0/blob/main/Demo/A1.png)
 
-2️⃣ ![Demo App2](https://github.com/Abhishek5165/Advanced-OAuth-2.0/blob/main/Demo/A2.png)
+## 2️⃣ Welcome Email ![Demo App2](https://github.com/Abhishek5165/Advanced-OAuth-2.0/blob/main/Demo/A2.png)
 
-3️⃣ ![Demo App3](https://github.com/Abhishek5165/Advanced-OAuth-2.0/blob/main/Demo/A3.png)
+## 3️⃣ Verify Email ![Demo App3](https://github.com/Abhishek5165/Advanced-OAuth-2.0/blob/main/Demo/A3.png)
 
 ## Key Features - 🥰🥷
 
