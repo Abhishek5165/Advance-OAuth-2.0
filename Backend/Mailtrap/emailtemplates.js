@@ -65,6 +65,132 @@ export const PASSWORD_RESET_SUCCESS_TEMPLATE = `
 </html>
 `;
 
+export const WELCOME_EMAIL_TEMPLATE = `
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f4f4;
+    }
+    .email-container {
+      max-width: 600px;
+      margin: 20px auto;
+      background-color: #ffffff;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    }
+    .header-image {
+      width: 100%;
+      border-radius: 10px 10px 0 0;
+    }
+    .title {
+      text-align: center;
+      font-size: 24px;
+      font-weight: bold;
+      color: #333333;
+      margin: 20px 0;
+    }
+    .content {
+      margin-top: 10px;
+      text-align: center;
+      color: #555555;
+    }
+    .btn {
+      margin-top: 20px;
+    }
+    .btn a {
+      text-decoration: none;
+      background-color: #007bff;
+      color: #ffffff;
+      padding: 10px 20px;
+      border-radius: 5px;
+      font-size: 16px;
+      display: inline-block;
+    }
+    .card-container {
+      display: flex;
+      justify-content: center;
+      margin-top: 30px;
+      gap: 10px;
+    }
+    .card {
+      background-color: #f9f9f9;
+      padding: 15px;
+      border: 1px solid #dddddd;
+      border-radius: 10px;
+      text-align: center;
+      width: 260px;
+    }
+    .card img {
+      width: 100%;
+      border-radius: 5px;
+      margin-bottom: 10px;
+    }
+    .footer {
+      margin-top: 30px;
+      text-align: center;
+      font-size: 12px;
+      color: #888888;
+    }
+    .footer .location {
+      color: #555555;
+    }
+    .footer a {
+      color: #007bff;
+      text-decoration: none;
+    }
+    .temp{
+      height: 200px;
+    }
+  </style>
+</head>
+<body>
+  <div class="email-container">
+    <div class="title"><h1>Welcome, {name} !</div>
+    
+    <div class="content">
+      Thanks for choosing Authentication Zone! We are happy to see you on board.
+      <p>To get started, do this next step:</p>
+      <div class="btn">
+        <a href="https://advanced-oauth-2-0.onrender.com">Next Step</a>
+      </div>
+    </div>
+    <div class="content">
+      <p>If you need some help to get started check out :</p>
+    </div>
+    <div class="card-container">
+      <div class="card">
+        <img class="temp" src="https://ci3.googleusercontent.com/meips/ADKq_NYBe6T3kROQzysktWmfa9CxCOpQXzkYIx57HlxD9I1L-6fW-6TZg2biy_ZHkyaSyXipSQh8iyqq011b_mAbIVmD26zCRjbAUJdAJ33Hi2FINdF23ek_zbYqPu9ge5vlG_k=s0-d-e1-ft#https://mailsend-email-assets.mailtrap.io/28lp59j4hdhijk9ohq0jcicqji1m.jpeg" alt="Meet Orbit">
+        <p><strong>Meet Orbit</strong> – your all-in-one solution for seamless, hassle-free meeting scheduling. 
+          <br>
+          <a href="https://meet-orbit.vercel.app/" style="color: #007bff;">Schedule now</a>
+        </p>
+      </div>
+      <div class="card">
+        <img src="https://ci3.googleusercontent.com/meips/ADKq_NZwfRyR3OIMX2n8R7l3Q9mJdnVhQbCm9z2ICOej7LWElSOZOB3f7aUD4km6RhPygdELlO0AqvFXpUb0-kD_NHX3Oiky_Qz8NsEBjRrNOA4EmEzLXo1fSasMLiYU-A7duMI=s0-d-e1-ft#https://mailsend-email-assets.mailtrap.io/wxins1blf0wjawk1lawhxc9c1f6n.jpeg" alt="Coder Quest">
+        <p><strong>Coder Quest</strong> - Unlock your potential with our e-learning platform – where knowledge meets convenience!
+          <br> 
+          <a href="https://coder-quest.vercel.app/" style="color: #007bff;">Start today</a>
+        </p>
+      </div>
+    </div>
+    
+    <!-- Footer -->
+    <div class="footer">
+      <p>We hope you enjoy this journey as much as we enjoy creating it for you.</p>
+      <p>© Authentication Zone • Lucknow • Uttar Pradesh</p>
+      <a href="https://advanced-oauth-2-0.onrender.com">Unsubscribe</a>
+    </div>
+  </div>
+</body>
+</html>`
+;
+
 export const PASSWORD_RESET_REQUEST_TEMPLATE = `
 <!DOCTYPE html>
 <html lang="en">
